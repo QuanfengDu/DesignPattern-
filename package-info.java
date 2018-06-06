@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author Quanfeng
+ *
+ */
+package DesignPattern;
